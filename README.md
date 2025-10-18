@@ -2,17 +2,18 @@
 
 🚀 Features
 
-🎯 Difficulty Levels: Choose between Easy, Medium, or Hard before starting the quiz.
+Difficulty Levels: Choose between Easy, Medium, or Hard before starting the quiz.
 
-💾 Dynamic Questions: Questions and answers are stored in a MySQL database and fetched dynamically.
+Dynamic Questions: Questions and answers are stored in a MySQL database and fetched dynamically.
 
-✅ Instant Feedback: After completing the quiz, users can see which questions they answered correctly or incorrectly.
+Instant Feedback: After completing the quiz, users can see which questions they answered correctly or incorrectly.
 
-📊 Score Calculation: The system automatically calculates and displays the user’s final score.
+Score Calculation: The system automatically calculates and displays the user’s final score.
 
-🔁 Restart Option: Users can retake the quiz to improve their score.
+Restart Option: Users can retake the quiz to improve their score.
 
-💻 Responsive Design: Clean and modern UI that works smoothly on any device.
+Responsive Design: Clean and modern UI that works smoothly on any device.
+
 
 🧩 Technologies Used
 
